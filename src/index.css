@@ -17,3 +17,8 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+figure.on {
+  color: #369;
+  transition: 0.7s;
+}
